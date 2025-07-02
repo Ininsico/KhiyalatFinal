@@ -128,10 +128,10 @@ const Footer = () => {
                             Accessibility
                         </a>
                         <a href="#" className="text-rose-400/70 hover:text-rose-400 transition-colors duration-300 text-sm">
-                            GDPR
+                            Working of Khiylat
                         </a>
                         <a href="#" className="text-rose-400/70 hover:text-rose-400 transition-colors duration-300 text-sm">
-                            Sitemap
+                            Pricing
                         </a>
                     </div>
                 </div>
